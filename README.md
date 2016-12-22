@@ -17,6 +17,6 @@ Epilepsy Society Seizure Prediction Challenge’.
 In order to run the application:
 
 * Create and start an instance at the Google Cloud Platform
-* Install Spark, Scipy, Numpy, scikit-learn, h5fy and GitHub on your instance
+* Install Spark, Scipy, Numpy, scikit-learn, h5py and GitHub on your instance
 * Clone this repo onto your instance
 * Go to the repo's directory in cmd and type "python main.py"
